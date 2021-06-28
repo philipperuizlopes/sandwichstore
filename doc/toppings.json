@@ -1,0 +1,59 @@
+[
+	{
+		"description": "Cheese",
+		"unitPrice": "0.025",
+		"unit": "g",
+		"stockQuantity": "400",
+		"servingPerNormalSize": "40"
+	},
+	{
+		"description": "Ham",
+		"unitPrice": "0.02",
+		"unit": "g",
+		"stockQuantity": "500",
+		"servingPerNormalSize": "50"
+	},
+	{
+		"description": "Pork",
+		"unitPrice": "0.02",
+		"unit": "g",
+		"stockQuantity": "350",
+		"servingPerNormalSize": "35"
+	},
+	{
+		"description": "Tuna Spread",
+		"unitPrice": "0.02",
+		"unit": "g",
+		"stockQuantity": "250",
+		"servingPerNormalSize": "25"
+	},
+	{
+		"description": "Meat Spread",
+		"unitPrice": "0.02",
+		"unit": "g",
+		"stockQuantity": "300",
+		"servingPerNormalSize": "30"
+	},
+	{
+		"description": "Tomato",
+		"unitPrice": "0.3",
+		"unit": "u",
+		"stockQuantity": "10",
+		"servingPerNormalSize": "1"
+	},
+	{
+		"description": "Green Salad",
+		"unitPrice": "0.2",
+		"unit": "u",
+		"stockQuantity": "10",
+		"servingPerNormalSize": "1"
+	},
+	{
+		"description": "Mayo",
+		"unitPrice": "0.02",
+		"unit": "ml",
+		"stockQuantity": "100",
+		"servingPerNormalSize": "10"
+	}
+]
+

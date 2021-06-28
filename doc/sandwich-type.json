@@ -1,0 +1,23 @@
+[
+	{
+		"description": "White",
+		"unitPrice": "1.0",
+		"unit": "u",
+		"stockQuantity": "10",
+		"servingPerNormalSize": "1"
+	},
+	{
+		"description": "Brown",
+		"unitPrice": "1.0",
+		"unit": "u",
+		"stockQuantity": "10",
+		"servingPerNormalSize": "1"
+	},
+	{
+		"description": "Special",
+		"unitPrice": "1.2",
+		"unit": "u",
+		"stockQuantity": "10",
+		"servingPerNormalSize": "1"
+	}
+]

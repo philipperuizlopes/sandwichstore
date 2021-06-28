@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Normal",
+		"multiplier": "1.0"
+	},
+	{
+		"name": "Small",
+		"multiplier": "0.75"
+	},
+	{
+		"name": "Double",
+		"multiplier": "1.8"
+	}
+]
